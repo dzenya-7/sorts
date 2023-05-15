@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Den\source\repos\shall_sort\shall_sort\Main.cpp(37,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Den\source\repos\shall_sort\shall_sort\Main.cpp(44,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Den\source\repos\shall_sort\shall_sort\Main.cpp(56,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Den\source\repos\shall_sort\shall_sort\Main.cpp(65,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Den\source\repos\shall_sort\shall_sort\Main.cpp(77,39): warning C4018: <: несоответствие типов со знаком и без знака
+  shall_sort.vcxproj -> C:\Users\Den\source\repos\shall_sort\x64\Debug\shall_sort.exe
